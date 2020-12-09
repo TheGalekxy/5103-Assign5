@@ -2,7 +2,7 @@
   "name": "A5-AJAX-YOURNAME",
   "version": "1.0.0",
   "description": "",
-  "main": "assign5-ajax.js",
+  "main": "assign5-ajax.html",
   "scripts": {
     "deploy": "gh-pages -d Assign5-AdamGalek"
   },
